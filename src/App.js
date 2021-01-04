@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Mau Here! Esse negócio de integração é muito bom!</p>
+        <p>I was changed in the feature branch</p>
         <p>
           Edit react <code>src/App.js</code> and save to reload.
         </p>
